@@ -1,6 +1,6 @@
 # a_text_project
 
-A new Flutter project.
+Some Text widget features on Flutter
 
 ## Getting Started
 
